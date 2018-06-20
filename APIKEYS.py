@@ -1,0 +1,9 @@
+#! python3
+# APIKEYS.py - Stores the SID, AUTH_TOKEN, and phone numbers for mehtracker.py
+
+ACCESS_KEY = 'AKIAJDA7EVFXM7ZZU6DQ'
+SECRET_ACCESS = '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'
+REGION_NAME = "us-east-1"
+
+MY_NUMBER = '+17033621231'
+#TWILIO_NUMBER = '+15714415136'
